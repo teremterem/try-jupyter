@@ -7,8 +7,6 @@ verify_ssl = true
 
 [packages]
 jupyterlab = "*"
-notebook = "*"
-viola = "*"
 
 [requires]
 python_version = "3.8"
