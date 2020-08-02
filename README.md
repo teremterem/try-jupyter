@@ -1,2 +1,2 @@
 # try-jupyter
-A sandbox to experiment with Jupiter.
+A sandbox to experiment with Jupyter.
