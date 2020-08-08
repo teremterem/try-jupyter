@@ -1,6 +1,9 @@
 .idea/
 dont_commit/
 
+# Kite
+.virtual_documents/
+
 # Created by .ignore support plugin (hsz.mobi)
 ### JupyterNotebooks template
 # gitignore template for Jupyter Notebooks

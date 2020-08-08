@@ -11,6 +11,7 @@ voila = "*"
 pandas = "*"
 flask = "*"
 sqlalchemy = "*"
+jupyter-kite = "*"
 
 [requires]
 python_version = "3.8"
