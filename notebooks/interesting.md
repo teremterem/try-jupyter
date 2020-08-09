@@ -8,3 +8,9 @@ https://www.youtube.com/watch?v=fCn8zs912OE
 https://openai.com
 
 https://openai.com/blog/emergent-tool-use/
+
+https://openai.com/progress/
+
+https://openai.com/resources/
+
+https://spinningup.openai.com/en/latest/
